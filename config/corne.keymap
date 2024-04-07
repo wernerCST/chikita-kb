@@ -36,8 +36,8 @@
 
             bindings = <
 &kp KP_NLCK  &kp N1  &kp N2  &kp N3  &bt BT_SEL 0    &bt BT_CLR         &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_PREVIOUS  &kp C_PP         &kp C_NEXT            &kp C_MUTE
-&kp CAPS     &kp N4  &kp N5  &kp N6  &bt BT_SEL 1    &bt BT_CLR_ALL     &kp PLUS           &kp QUESTION     &kp AT_SIGN     &kp SQT          &kp LBKT              &kp RBKT
-&kp LSHFT    &kp N7  &kp N8  &kp N9  &kp N0          &kp ENTER          &kp MINUS          &kp EXCLAMATION  &kp PERCENT     &kp EXCLAMATION  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&kp CAPS     &kp N4  &kp N5  &kp N6  &bt BT_SEL 1    &bt BT_CLR_ALL     &kp COLON          &kp QUESTION     &kp AT_SIGN     &kp SQT          &kp LBKT              &kp RBKT
+&kp LSHFT    &kp N7  &kp N8  &kp N9  &kp N0          &kp ENTER          &kp MINUS          &kp EXCLAMATION  &kp PERIOD      &kp EXCLAMATION  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
                              &mo 0   &kp LEFT_ARROW  &kp RIGHT_ARROW    &kp BSPC           &kp INSERT       &kp ESCAPE
             >;
         };
