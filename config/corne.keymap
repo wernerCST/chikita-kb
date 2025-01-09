@@ -35,10 +35,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&trans     &kp N1  &kp N2  &kp N3  &bt BT_SEL 0  &bt BT_CLR        &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_PREVIOUS  &kp C_PP         &kp C_NEXT            &kp PIPE
-&kp CAPS   &kp N4  &kp N5  &kp N6  &bt BT_SEL 1  &bt BT_CLR_ALL    &kp COLON          &kp QUESTION     &kp AT_SIGN     &kp SQT          &kp LBKT              &kp RBKT
-&kp LSHFT  &kp N7  &kp N8  &kp N9  &kp N0        &kp ENTER         &kp MINUS          &kp EXCLAMATION  &kp PERIOD      &kp EXCLAMATION  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-                           &mo 0   &kp PLUS      &trans            &kp BSPC           &kp INSERT       &kp ESCAPE
+&trans        &kp N1  &kp N2  &kp N3  &bt BT_SEL 0  &bt BT_CLR        &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_PREVIOUS  &kp C_PP         &kp C_NEXT            &kp PIPE
+&kp CAPSLOCK  &kp N4  &kp N5  &kp N6  &bt BT_SEL 1  &bt BT_CLR_ALL    &kp COLON          &kp QUESTION     &kp AT_SIGN     &kp SQT          &kp LBKT              &kp RBKT
+&kp LSHFT     &kp N7  &kp N8  &kp N9  &kp N0        &kp ENTER         &kp MINUS          &kp EXCLAMATION  &kp PERIOD      &kp EXCLAMATION  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+                              &mo 0   &kp PLUS      &trans            &kp BSPC           &kp INSERT       &kp ESCAPE
             >;
         };
     };
